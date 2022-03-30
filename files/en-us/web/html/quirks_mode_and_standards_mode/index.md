@@ -49,6 +49,4 @@ If you serve XHTML-like content using the `text/html` MIME type, browsers will r
 
 ## How do I see which mode is used?
 
-In Firefox, select _Page Info_ from the _Tools_ menu bar, and look for _Render Mode_. ([Learn more about the Firefox Page Info window](https://support.mozilla.org/en-US/kb/firefox-page-info-window))
-
-In Internet Explorer, press _F12_, and look for _Document Mode_.
+In Firefox, select _Page Info_ from the _Tools_ menu bar, and look for _Render Mode_. ([Learn more about the Firefox Page Info window](https://support.mozilla.org/en-US/kb/firefox-page-![photo_2016-12-25_23-46-2 (1)](https://user-images.githubusercontent.com/24365145/160796911-a4faa8a7-03f5-48ec-87e5-4b9ca6da1256.jpg)
